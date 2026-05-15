@@ -1,5 +1,6 @@
-import streamlit as st
-import pandas as pd
-import numpy as np
+import cv2
 
-st.write('yes')
+Camera = cv2.VideoCapture(0)
+
+while True:
+    ret, frame = Camera.read()
