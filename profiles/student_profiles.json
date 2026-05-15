@@ -7,7 +7,40 @@
         "image": "profiles/John.jpg"
     },
     {
-        
-    }
+        "Student_Name": "Caringal, Paul Gian",
+        "Student_Id": "2024-200090",
+        "Course": "BSIT - Bachelor of Sciencee in Information Technology",
+        "Year_level": "2nd Year",
+        "image": "profiles/John.jpg"
+    },
+    {
+        "Student_Name": "Gonzaga, Kazzandra ",
+        "Student_Id": "2024-200090",
+        "Course": "BSIT - Bachelor of Sciencee in Information Technology",
+        "Year_level": "2nd Year",
+        "image": "profiles/John.jpg"
+    },
+    {
+        "Student_Name": "Escara, Francis",
+        "Student_Id": "2024-200090",
+        "Course": "BSIT - Bachelor of Sciencee in Information Technology",
+        "Year_level": "2nd Year",
+        "image": "profiles/John.jpg"
+    },
+    {
+        "Student_Name": "Cipriaso, Gerald",
+        "Student_Id": "2024-200090",
+        "Course": "BSIT - Bachelor of Sciencee in Information Technology",
+        "Year_level": "2nd Year",
+        "image": "profiles/John.jpg"
+    },
+    {
+        "Student_Name": "Aldaya Mig Russel",
+        "Student_Id": "2024-200090",
+        "Course": "BSIT - Bachelor of Sciencee in Information Technology",
+        "Year_level": "2nd Year",
+        "image": "profiles/John.jpg"
+    },
+    
 
 ]
