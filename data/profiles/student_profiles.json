@@ -1,13 +1,6 @@
 [
     
-    {
-        "Student_Name": "Licudine, John Lawrence B.",
-        "Student_Id": "2024-200090",
-        "Course": "BSIT - Bachelor of Science in Information Technology",
-        "Year_level": "2nd Year",
-        "Records": "clean",
-        "image": "profiles/John.jpg"
-    },
+
     {
         "Student_Name": "Caringal, Paul Gian",
         "Student_Id": "2024-200090",
@@ -32,20 +25,13 @@
         "Records": "clean",
         "image": "data/profiles/photos/Escara.jpg"
     },
-    {
-        "Student_Name": "Cipriaso, Gerald",
-        "Student_Id": "2024-200090",
-        "Course": "BSIT - Bachelor of Science in Information Technology",
-        "Year_level": "2nd Year",
-        "Records": "clean",
-        "image": "profiles/John.jpg"
-    },
+
     {
         "Student_Name": "Aldaya Mig Russel",
         "Student_Id": "2024-200090",
         "Course": "BSIT - Bachelor of Science in Information Technology",
         "Year_level": "2nd Year",
         "Records": "clean",
-        "image": "data/profiles/photos/Aldaya.jpg"
+        "image": "data/profiles/photos/Aldaya.jpeg"
     }
 ]
