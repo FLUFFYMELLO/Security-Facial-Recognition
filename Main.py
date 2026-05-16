@@ -1,4 +1,9 @@
 import cv2
+import face_recognition
+import json
+import streamlit as st
+
+
 
 Camera = cv2.VideoCapture(0)
 detector = cv2.CascadeClassifier('data/haarcascade_frontalface_default.xml')
