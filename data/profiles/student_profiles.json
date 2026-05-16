@@ -1,4 +1,5 @@
 [
+    
     {
         "Student_Name": "Licudine, John Lawrence B.",
         "Student_Id": "2024-200090",
@@ -13,7 +14,7 @@
         "Course": "BSIT - Bachelor of Science in Information Technology",
         "Year_level": "2nd Year",
         "Records": "clean",
-        "image": "profiles/John.jpg"
+        "image": "data/profiles/photos/Caringal.jpg"
     },
     {
         "Student_Name": "Gonzaga, Kazandra Zhantel I.",
@@ -21,7 +22,7 @@
         "Course": "BSIT - Bachelor of Science in Information Technology",
         "Year_level": "2nd Year",
         "Records": "clean",
-        "image": "profiles/John.jpg"
+        "image": "data/profiles/photos/Gonzaga.jpg"
     },
     {
         "Student_Name": "Escara, Francis Justine D.",
@@ -29,7 +30,7 @@
         "Course": "BSIT - Bachelor of Science in Information Technology",
         "Year_level": "2nd Year",
         "Records": "clean",
-        "image": "profiles/John.jpg"
+        "image": "data/profiles/photos/Escara.jpg"
     },
     {
         "Student_Name": "Cipriaso, Gerald",
@@ -45,6 +46,6 @@
         "Course": "BSIT - Bachelor of Science in Information Technology",
         "Year_level": "2nd Year",
         "Records": "clean",
-        "image": "profiles/John.jpg"
+        "image": "data/profiles/photos/Aldaya.jpg"
     }
 ]
